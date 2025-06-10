@@ -9,7 +9,8 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "both"
 arch = "arm64-v8a"
-excluded-patches = "'Enable debugging' 'Disable haptic feedback'"included-patches = ""
+excluded-patches = "'Enable debugging' 'Disable haptic feedback'"
+included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
