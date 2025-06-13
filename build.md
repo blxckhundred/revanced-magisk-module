@@ -1,7 +1,7 @@
-GooglePhotos: 7.32.0.765953717  
+GooglePhotos: 7.33.0.769298726  
 IconPackStudio: 2.2 build 016  
 Music: 8.05.51  
-Spotify: 9.0.50.416  
+Spotify: 9.0.54.74  
 Twitch: 24.8.0  
 YouTube: 20.12.46  
 
